@@ -74,22 +74,22 @@
       >;
     };
     extra1 { 
-      display-name = "Extra";    
+      display-name = "Red";    
       status = "reserved";
     };
 
     extra2 { 
-      display-name = "Extra";    
+      display-name = "Purple";    
       status = "reserved";
     };
 
     extra3 { 
-      display-name = "Extra";    
+      display-name = "Cyan";    
       status = "reserved";
     };
 
     extra4 { 
-      display-name = "Extra";    
+      display-name = "Yellow";    
       status = "reserved";
     };
   };
